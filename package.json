@@ -1,0 +1,19 @@
+{
+  "name": "mxw-modified-roslib",
+  "version": "1.0.0",
+  "description": "Modiifed roslib for Mwx components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pellerg/mxw-modified-roslib.git"
+  },
+  "author": "pellerg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pellerg/mxw-modified-roslib/issues"
+  },
+  "homepage": "https://github.com/pellerg/mxw-modified-roslib#readme"
+}
